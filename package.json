@@ -1,0 +1,20 @@
+{
+  "name": "chuck-norris-joke-generator",
+  "version": "1.0.0",
+  "description": "Generates random Chuck Norris jokes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Newdao",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cjdao/chuck-norris-joke-generator.git"
+  },
+  "keywords": ["chuck", "norris", "jokes", "generator"],
+  "dependencies": {
+    "chucknorris-io": "^1.0.0"
+  },
+  "devDependencies": {}
+}
